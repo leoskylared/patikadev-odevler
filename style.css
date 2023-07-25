@@ -1,0 +1,50 @@
+
+#head{
+    display: flex;
+    justify-content: center;
+    color: #c20b0b;
+}
+
+#menu{
+    display: flex;
+    justify-content: center;
+}
+
+.menu-item{
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 20px;
+}
+
+
+#content-1-head{
+    display: flex;
+    justify-content: center;
+}
+
+#content-1-description{
+    display: flex;
+    justify-content: center;
+}
+
+#content-2-head{
+    display: flex;
+    justify-content: center;
+}
+
+.content-2-item{
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+    list-style-position: inside;
+}
+
+
+#products{
+    position: relative;
+    left: 48%;
+}
+
+.products-item{
+    list-style-type: none;
+}
